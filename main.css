@@ -1,0 +1,19 @@
+body {
+    font-family: Utopia;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+label {
+    display: block;
+    padding: 5px;
+}
+
+button {
+    color: white;
+    background: blueviolet;
+    padding: 5px;
+    display: block;
+}
